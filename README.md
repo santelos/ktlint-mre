@@ -1,5 +1,5 @@
 ## **Minimal reproducible example for ktlint project bug issue**
-Bug issue reference: N/A
+Bug issue reference: [https://github.com/JLLeitschuh/ktlint-gradle/issues/399](https://github.com/JLLeitschuh/ktlint-gradle/issues/399)
 
 **Steps to reproduce:**
  - Make sure you have local $JAVA_HOME references the 14.0.2 jdk version
