@@ -14,5 +14,5 @@ Bug issue reference: N/A
  
 **Actual result:**
  - Local check **completes** successfully
- - Local check log for _"ktlintMainSourceSetCheck"_ has no debug message about the affected files
+ - Local check debug log for _"ktlintMainSourceSetCheck"_ is `[DEBUG] <...>ms / 0 file(s) / 0 error(s)`
  - Docker build works as expected
